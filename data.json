@@ -1,0 +1,19 @@
+{
+    "cpus": [
+      { "name": "Intel Core i3-10100", "score": 6500 },
+      { "name": "Intel Core i5-10400", "score": 8000 },
+      { "name": "Intel Core i7-10700", "score": 9500 },
+      { "name": "AMD Ryzen 3 3200G", "score": 6000 },
+      { "name": "AMD Ryzen 5 5600X", "score": 12000 },
+      { "name": "AMD Ryzen 7 5800X", "score": 14000 }
+    ],
+    "gpus": [
+      { "name": "NVIDIA GTX 1650", "score": 6000 },
+      { "name": "NVIDIA GTX 1660 Super", "score": 8500 },
+      { "name": "NVIDIA RTX 3060", "score": 14000 },
+      { "name": "NVIDIA RTX 3070", "score": 17000 },
+      { "name": "AMD Radeon RX 6600", "score": 12500 },
+      { "name": "AMD Radeon RX 6800 XT", "score": 20000 }
+    ]
+  }
+  
